@@ -1,5 +1,5 @@
 # Kalman Filter
-Kalman Filters are used for state estimation in control systems when noisy measurements are present. This repository includes an implementation of the algorithm in Python and also a Jupyter Notebook for testing in real data for altitude estimation of a quadrotor
+Kalman Filters are used for state estimation in control systems when noisy measurements are present. This repository includes an implementation of the algorithm in Python and also a Jupyter Notebook for testing in real data for altitude estimation of a quadrotor. The algorithm was applied in the quad using a sensor-fusion technique by blending the measurements from the barometric pressure sensor and the accelerometer to provide altitude (relative height of the quad) estimation. 
 
 ## Kalman Algorithm
 
